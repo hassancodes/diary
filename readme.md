@@ -4,3 +4,6 @@ This is my first post on github.
 
 
 11/16/23 - working on getting better at design
+
+# Random: 
+- Losing control while taking back control. LOL
