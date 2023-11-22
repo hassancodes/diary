@@ -7,4 +7,4 @@ This is my first post on github.
 
 # Random: 
 - Losing control while taking back control. LOL
-- Can't do tech dectox, while tech is my oxygen as an engineer,
+- Can't do tech dectox, while tech is my oxygen as an engineer.
