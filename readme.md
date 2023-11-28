@@ -14,3 +14,6 @@ This is my first post on github.
 - Losing control while taking back control. LOL
 - Can't do tech dectox, while tech is my oxygen as an engineer.
 >>>>>>> 2e23f453c21cda24e9632578cd31021a07a5ab00
+
+-- will started working on social-link from tomorrow
+
