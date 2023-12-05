@@ -4,10 +4,16 @@
 
 # Random
 ## Idiya App:
-- Working on the Idiya App
+
+- Development Diary  
+    Working on the Idiya App
     #### Idiya App updates:
     - working on the comment section
 
+
+- Design Diary
+    - Finished Redesigning Simon Computing website
+    
 
 --------------------------------------------------------
 
