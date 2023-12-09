@@ -16,6 +16,7 @@
     - Finished Redesigning Simon Computing website
     - Next up update iventureaccountinggroup website
     - Design portfolio for a photographer
+    - Develop and send it
 
 
 --------------------------------------------------------
