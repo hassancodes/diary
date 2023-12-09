@@ -14,6 +14,8 @@
 - Design Diary
     - Finished Redesigning SpiceHeaven website
     - Finished Redesigning Simon Computing website
+    - Next up update iventureaccountinggroup website
+    - Design portfolio for a photographer
 
 
 --------------------------------------------------------
