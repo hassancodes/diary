@@ -18,7 +18,7 @@
     - Design portfolio for a photographer
     - Develop and send it
 
-- Instagram Reel
+- Instagram Reel:
     - Starting Project Development Daily.
 
 
