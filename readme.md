@@ -3,7 +3,7 @@
 - working on Social-link (Deadline 01/01/2024)
 
 # Random:-
-## Idiya App:
+## Idiya App:-
 
 - Development Diary  
     Working on the Idiya App
