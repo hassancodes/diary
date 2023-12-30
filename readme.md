@@ -2,8 +2,8 @@
 
 - working on Social-link (Deadline 01/01/2024)
 
-# Random
-## Idiya App:
+# Random:-
+## Idiya App:-
 
 - Development Diary  
     Working on the Idiya App
@@ -21,7 +21,7 @@
     - Design portfolio for a photographer
     - Develop and send it
 
-- Instagram Reel
+- Instagram Reel:-
     - Starting Project Development Daily.
 
 
