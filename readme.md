@@ -10,6 +10,9 @@
     #### Idiya App updates:
     - working on the comment section
 
+    Started working on Social Link
+    - Its day 7 and I am smoking
+
 
 - Design Diary
     - Finished Redesigning SpiceHeaven website
