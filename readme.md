@@ -12,6 +12,7 @@
 
     Started working on Social Link
     - Its day 7 and I am smoking
+    - its day 10 finally done  with p0 design.
 
 
 - Design Diary
@@ -20,6 +21,7 @@
     - Next up update iventureaccountinggroup website
     - Design portfolio for a photographer
     - Develop and send it
+    - 
 
 - Instagram Reel:-
     - Starting Project Development Daily.
